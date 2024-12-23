@@ -1,0 +1,2 @@
+#define Lockey_VERSION_MAJOR @Lockey_VERSION_MAJOR@
+#define Lockey_VERSION_MINOR @Lockey_VERSION_MINOR@
